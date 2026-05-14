@@ -5,7 +5,6 @@
 
 This repository presents a professional-grade API testing project for the **Dmoney REST API**, focusing on financial transaction operations like deposits, transfers, withdrawals, and balance inquiries. It includes a complete suite of manual and automated test cases, detailed issue reports, and documentation to demonstrate best practices in API quality assurance.
 
----
 
 ### Key Features
 
@@ -25,12 +24,12 @@ This repository presents a professional-grade API testing project for the **Dmon
 
 | Resources                     | Link                                              |
 | ---------------------------- | ------------------------------------------------- |
-|  API Documentation         | [Link](https://documenter.getpostman.com/view/49204800/2sBXqQFd13)                                     |
-|  HTML Report               | [Link](https://dmoney-api-htmlreport.netlify.app/) |
-|  Test Case File            | [DMoney_Test_cases](https://docs.google.com/spreadsheets/d/1rBxuKHU7PGmhoNtWN5hx5IpEfwCpWngCkTcJ4HmVg9I/edit?usp=drive_web&ouid=112449756036362671762)                                 |
-| Completion Report | [Link](https://docs.google.com/spreadsheets/d/1g51xXvaBfLmyW8LiNfDsk_iW3x3Uy3WIw-Vup7spB6A/edit?gid=0#gid=0) |
-|  Bug Report    | [Bug/Improvement Report](https://docs.google.com/spreadsheets/d/1_UUlLQen29JL2y8VQH8SQOqGbLTgXCoiPt7ysk6WKXw/edit?gid=0#gid=0)                                 |
-| Check List | [Link](https://docs.google.com/spreadsheets/d/1B2vLeRM-1tHgn9cBrr6chfLsDPLv7cVGOCBHarUGe-U/edit) 
+|  API Documentation         | [Postman_API_Collection](https://documenter.getpostman.com/view/49204800/2sBXqQFd13)                                     |
+|  HTML Report               | [API_DOC_HTML_Report](https://dmoney-api-htmlreport.netlify.app/) |
+|  Test Case File            | [DMoney_Test_Cases](https://docs.google.com/spreadsheets/d/1rBxuKHU7PGmhoNtWN5hx5IpEfwCpWngCkTcJ4HmVg9I/edit?usp=drive_web&ouid=112449756036362671762)                                 |
+| Completion Report | [DMoney_Completion_Report](https://docs.google.com/spreadsheets/d/1g51xXvaBfLmyW8LiNfDsk_iW3x3Uy3WIw-Vup7spB6A/edit?gid=0#gid=0) |
+|  Bug Report    | [DMoney_Bug_Report](https://docs.google.com/spreadsheets/d/1_UUlLQen29JL2y8VQH8SQOqGbLTgXCoiPt7ysk6WKXw/edit?gid=0#gid=0)                                 |
+| Check List | [DMoney_Checklist](https://docs.google.com/spreadsheets/d/1B2vLeRM-1tHgn9cBrr6chfLsDPLv7cVGOCBHarUGe-U/edit) 
 
 
 ---
@@ -46,9 +45,10 @@ This repository presents a professional-grade API testing project for the **Dmon
 
 ---
 
-### 📸 Screenshots
+### Report Screenshots
 Here are some screenshots of the test execution and report UI.
-![Screenshot_3](https://ibb.co.com/1YHmYx1B)
-![Screenshot_4](https://ibb.co.com/Q32mzvvJ)
+
+![Dmoney API Test Screenshot 1](images/ss1.png)
+![Dmoney API Test Screenshot 2](images/ss2.png)
 
 ---
