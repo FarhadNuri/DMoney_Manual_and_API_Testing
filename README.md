@@ -10,7 +10,7 @@ This repository presents a professional-grade API testing project for the **Dmon
 
 * Comprehensive API testing covering functional, boundary, and negative test scenarios
 * End-to-end manual and automated API test execution using Postman
-* Execution of 99 API requests with 198 assertions and 100% test pass rate
+* Execution of 104 API requests with 208 assertions and 100% test pass rate
 * Detailed and interactive HTML test reporting with execution insights
 * Validation of API responses, status codes, authentication, and business logic
 * Well-documented bug reports and improvement recommendations for better API quality
@@ -91,3 +91,11 @@ node .\report.js
 * Generated detailed HTML reports and maintained professional bug reports and QA documentation
 * Strengthened practical knowledge of functional, boundary, and negative testing techniques
 * Developed structured test cases with clear steps, expected results, and API requirements
+
+---
+
+## Author
+
+**Farhad Nuri**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/farhad-nuri-ba99a62a5/)
+[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:farhadnuri559@gmail.com)

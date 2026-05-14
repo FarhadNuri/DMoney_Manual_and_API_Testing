@@ -1,6 +1,6 @@
 const newman = require('newman');
 require('dotenv').config();
- console.log('gmailToken:', process.env.gmailToken);
+
 newman.run({
    
     collection:require('./DMONEY_API_Testing.postman_collection.json'),
