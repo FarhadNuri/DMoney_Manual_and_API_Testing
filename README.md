@@ -25,11 +25,11 @@ This repository presents a professional-grade API testing project for the **Dmon
 | Resources                     | Link                                              |
 | ---------------------------- | ------------------------------------------------- |
 |  API Documentation         | [Postman_API_Collection](https://documenter.getpostman.com/view/49204800/2sBXqQFd13)                                     |
-|  HTML Report               | [API_DOC_HTML_Report](https://dmoney-api-htmlreport.netlify.app/) |
+|  HTML Report               | [API_Collection_HTML_Report](https://dmoney-api-htmlreport.netlify.app/) |
 |  Test Case File            | [DMoney_Test_Cases](https://docs.google.com/spreadsheets/d/1rBxuKHU7PGmhoNtWN5hx5IpEfwCpWngCkTcJ4HmVg9I/edit?usp=drive_web&ouid=112449756036362671762)                                 |
 | Completion Report | [DMoney_Completion_Report](https://docs.google.com/spreadsheets/d/1g51xXvaBfLmyW8LiNfDsk_iW3x3Uy3WIw-Vup7spB6A/edit?gid=0#gid=0) |
 |  Bug Report    | [DMoney_Bug_Report](https://docs.google.com/spreadsheets/d/1_UUlLQen29JL2y8VQH8SQOqGbLTgXCoiPt7ysk6WKXw/edit?gid=0#gid=0)                                 |
-| Check List | [DMoney_Checklist](https://docs.google.com/spreadsheets/d/1B2vLeRM-1tHgn9cBrr6chfLsDPLv7cVGOCBHarUGe-U/edit) 
+| Check List | [DMoney_Checklist](https://docs.google.com/spreadsheets/d/1B2vLeRM-1tHgn9cBrr6chfLsDPLv7cVGOCBHarUGe-U/edit)
 
 
 ---
@@ -51,4 +51,36 @@ Here are some screenshots of the test execution and report UI.
 ![Dmoney API Test Screenshot 1](images/ss1.png)
 ![Dmoney API Test Screenshot 2](images/ss2.png)
 
+---
+
+### How to Run This Project Locally
+
+####  1. Clone the repo
+
+```bash
+git clone https://github.com/FarhadNuri/DMoney_Manual_and_API_Testing 
+```
+
+#### 2. Install dependencies
+
+```bash
+npm install dotenv
+npm install newman
+npm install newman-reporter-htmlextra
+```
+
+#### 3. Add gnailToken in dotenv from OAuth Gmail Api
+
+```bash
+gmailToken = secretGmailToken
+```
+
+
+#### 4. Generate HTML report
+
+```bash
+node .\report.js
+```
+
+   
 ---
