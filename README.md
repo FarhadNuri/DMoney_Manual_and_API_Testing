@@ -1,12 +1,12 @@
 
-## Dmoney Manual & API Testing
+# Dmoney Manual & API Testing
 
-### Project Description
+## Project Description
 
 This repository presents a professional-grade API testing project for the **Dmoney REST API**, focusing on financial transaction operations like deposits, transfers, withdrawals, and balance inquiries. It includes a complete suite of manual and automated test cases, detailed issue reports, and documentation to demonstrate best practices in API quality assurance.
 
 
-### Key Features
+## Key Features
 
 * Comprehensive API testing covering functional, boundary, and negative test scenarios
 * End-to-end manual and automated API test execution using Postman
@@ -20,7 +20,7 @@ This repository presents a professional-grade API testing project for the **Dmon
 ---
 
 
-### Documentation & Resources
+## Documentation & Resources
 
 | Resources                     | Link                                              |
 | ---------------------------- | ------------------------------------------------- |
@@ -35,7 +35,7 @@ This repository presents a professional-grade API testing project for the **Dmon
 ---
 
 
-### Technologies & Tools Used
+## Technologies & Tools Used
 
 | Tool                      | Purpose                                  |
 | ------------------------- | ---------------------------------------- |
@@ -45,15 +45,14 @@ This repository presents a professional-grade API testing project for the **Dmon
 
 ---
 
-### Report Screenshots
-Here are some screenshots of the test execution and report UI.
+## Report Screenshots
 
 ![Dmoney API Test Screenshot 1](images/ss1.png)
 ![Dmoney API Test Screenshot 2](images/ss2.png)
 
 ---
 
-### How to Run This Project Locally
+## How to Run This Project Locally
 
 ####  1. Clone the repo
 
@@ -84,3 +83,11 @@ node .\report.js
 
    
 ---
+
+## Experience & Insights Gained
+
+* Designed and executed manual and automated API test cases using Postman and Newman
+* Validated status codes, responses, authentication, and business logic across multiple scenarios
+* Generated detailed HTML reports and maintained professional bug reports and QA documentation
+* Strengthened practical knowledge of functional, boundary, and negative testing techniques
+* Developed structured test cases with clear steps, expected results, and API requirements
