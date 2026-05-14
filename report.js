@@ -3,7 +3,7 @@ require('dotenv').config();
  console.log('gmailToken:', process.env.gmailToken);
 newman.run({
    
-    collection:require('./DMONEY_API.postman_collection.json'),
+    collection:require('./DMONEY_API_Testing.postman_collection.json'),
     reporters: 'htmlextra',
     iterationCount: 1,
      delayRequest: 5000, 
